@@ -1,0 +1,9 @@
+# this code add numbers
+def add():
+    n1 = int(input("enter the number 1:"))
+    n2 = int(input("enter the number 2:"))
+
+    n = n1 + n2
+    print("the sum of two numbers is:", n )
+
+add()
